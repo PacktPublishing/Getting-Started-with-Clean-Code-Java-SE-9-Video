@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-app/client-app.iml" filepath="$PROJECT_DIR$/client-app/client-app.iml" group="message" />
+      <module fileurl="file://$PROJECT_DIR$/message.service.api/message.service.api.iml" filepath="$PROJECT_DIR$/message.service.api/message.service.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message.service.provider.console/message.service.provider.console.iml" filepath="$PROJECT_DIR$/message.service.provider.console/message.service.provider.console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message.service.provider.swing/message.service.provider.swing.iml" filepath="$PROJECT_DIR$/message.service.provider.swing/message.service.provider.swing.iml" />
+    </modules>
+  </component>
+</project>
