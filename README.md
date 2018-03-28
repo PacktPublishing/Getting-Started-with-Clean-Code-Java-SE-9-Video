@@ -1,56 +1,48 @@
-# Audio on iOS [Video]
-This is the code repository for [Audio on iOS [Video]](https://www.packtpub.com/application-development/audio-ios-video?utm_source=github&utm_medium=repository&utm_campaign=9781788294140), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Getting Started with Clean Code Java SE 9 [Video]
+This is the code repository for [Getting Started with Clean Code Java SE 9 [Video]](https://www.packtpub.com/application-development/getting-started-clean-code-java-se-9-video?utm_source=github&utm_medium=repository&utm_campaign=9781787285064), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
-Audio is what Apple is known for. The iPod and Apple’s dedication to audio is what ultimately led to the iPhone and the whole iOS ecosystem. In this course, you’ll learn how to work with and harness the power of audio in your iOS development.
-The two fundamental skills that you will master in this course are playing and recording audio. We’ll start by playing an audio file. Whether you want background music in a game or need to play podcast files, you’ll learn how to work with the audio frameworks Apple has developed. Then we’ll move on to recording audio with built-in microphones in iOS devices.
-You’ll end the course by taking your learning and practically applying it to create a Soundboard app that connects to a Core Data database. Through this, a user can record a sound, give it a name, and be able to play the sound with the touch of a button.
+Getting started with clean code Java SE 9, this practical video series aims to demonstrate the power of the completely new and revolutionary Java Platform ever released, to build high quality, modular, maintainable, and really secure software.
+This video series will make you a master the Java SE 9’s core concepts, components, tools, and the new big features, so you can become a Java SE 9 Ninja. By the end of the first section of volume one, you will master the Java Modularity goals and concepts, to understand why we need such a completely new Java Platform, followed by the second section where we will go through the installation steps of the JDK 9 and Intellij IDE to help us prepare our development environment for the entire course.
+The second volume, section one we will deep dive into the Java Platform Module Systems in more details, and the core JDK structure changes. While the second section will introduce more advanced topics about modularity and covers all the techniques that will help you migrate your codebase smoothly to Java 9. The final section will introduce the great new features shipped with the language to make you aware of how to create a custom runtime images aka customized JREs, so your application work efficiently on scaled-down systems, finally how to create a pluggable, and loosely coupled modules with the concept of services, service provider, and service consumers.
+All the topics are powered by examples to make the explanations practical too.
+
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Know how to start a TableViews and control the way that a TableViewDataSource operates 
-<LI>Provide proper data to a TableViewDelegate 
-<LI>List information with Arrays 
-<LI>Move from one screen to another with Segues and see how to pass data from one view controller to another 
-<LI>Enhance UI development for the end user by using a UINavigationController </LI></UL></DIV>
+<LI>Structure better code in modules with ease 
+<LI>Write pure functions, avoid side-effects, and go functional 
+<LI>Explore design patterns and practices and how to use them 
+<LI>Get familiar with unit testing 
+<LI>Proper error handling in JavaScript </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 To fully benefit from the coverage included in this course, you will need:
 
-●	Prior working knowledge of Xcode and Swift
+●	Prior working knowledge of the Java Programming language.
 
-●	Created simple iPhone apps
+●	Familiarity with fundamental functional programing in Java 8.
 
-●	An understanding of basic Xcode Storyboards
-
-●	(Optional) Experience with Cocoapods
+●	An understanding of basics of bash commands.
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
 This course has the following software requirements:
 
-●	Xcode
+●	Java SE Development Kit 9+
 
-●	Mac Computer
+●	An editor IntelliJ IDEA 2018+
 
-This course has been tested on the following system configuration:
-
-●	OS: Mac 10.13
-
-●	Processor: 2.8 GHz Intel Core i5
-
-●	Memory: 16GB
-
-●	Hard Disk Space: 200MB
+●	Operating System either Microsoft Windows 10 or Apple macOS Sierra+
 
 
 ## Related Products
-* [Working with Camera and Images in iOS Apps [Video]](https://www.packtpub.com/application-development/working-camera-and-images-ios-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781788291330)
+* [Object-oriented and Functional Programming with Java 8 [Integrated Course]](https://www.packtpub.com/application-development/object-oriented-and-functional-programming-java-8-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788294027)
 
-* [Saving Data in iOS Apps – Core Data and Realm [Video]](https://www.packtpub.com/application-development/saving-data-ios-apps-–-core-data-and-realm-video?utm_source=github&utm_medium=repository&utm_campaign=9781788299442)
+* [Learning Java 9 – Object Oriented Programming [Video]](https://www.packtpub.com/application-development/learning-java-9-–-object-oriented-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781788623933)
 
-* [iOS Developer Essentials - TableViews [Video]](https://www.packtpub.com/application-development/ios-developer-essentials-tableviews-video?utm_source=github&utm_medium=repository&utm_campaign=9781788299015)
+* [Mastering Clean Code in JavaScript [Video]](https://www.packtpub.com/application-development/mastering-clean-code-javascript-video?utm_source=github&utm_medium=repository&utm_campaign=9781788999588)
 
