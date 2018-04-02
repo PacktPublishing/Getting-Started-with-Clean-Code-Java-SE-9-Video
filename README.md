@@ -11,16 +11,19 @@ All the topics are powered by examples to make the explanations practical too.
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Structure better code in modules with ease 
-<LI>Write pure functions, avoid side-effects, and go functional 
-<LI>Explore design patterns and practices and how to use them 
-<LI>Get familiar with unit testing 
-<LI>Proper error handling in JavaScript </LI></UL></DIV>
+<LI>Understand Java SE 9 platform module system (JPMS) concepts and goals
+<LI>Understand the changes to the folder and library structure in JDK 9 and how this introduces the reliable configuration concept 
+<LI>See how JPMS provides real encapsulation to develop more secure applications 
+<LI>Build applications using the new module system 
+<LI>Know how to use the module-path instead of the class-path when starting Java applications
+<LI>Learn by examples the different techniques that help you migrate your current code to Java SE 9 smoothly
+<LI>Find out how to use the new jlink tool in JDK 9 to a customizable JREs that fit scaled-down devices efficiently.
+<LI>Master creating pluggable and loosely coupled components or modules, with services, service providers, and service consumers.
+<LI>Explore via examples how to create a service provider where you need more control over how the service implementation is initiated </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 
 ●	Prior working knowledge of the Java Programming language.
 
@@ -30,7 +33,6 @@ To fully benefit from the coverage included in this course, you will need:
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 
 ●	Java SE Development Kit 9+
 
